@@ -1,1 +1,0 @@
-package com.bookstore.common.dtto;
